@@ -1,4 +1,4 @@
-hey hey hey
+
 # PROJECTS
 
 We will have all of our projects here under the files and we will name them accordingly.We made a menu that allows you to pick what you want to open and run
