@@ -4,7 +4,7 @@ from guessthenumber import guessthenum
 from wordguess import word
 from calculator import calc
 
-def calculator():
+def calculator()
     exec(open("calculator.py").read())
 
 
