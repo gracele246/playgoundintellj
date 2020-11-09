@@ -1,6 +1,6 @@
 # THIS IS OUR MENU, WHERE YOU CHOOSE WHAT YOU WANT TO DO
 
-from guessthenumber import guessthenu
+from guessthenumber import guessthenum
 from wordguess import word
 from calculator import calc
 
